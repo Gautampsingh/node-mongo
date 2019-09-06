@@ -8,3 +8,8 @@ C:\Program Files\MongoDB\Server\4.2\bin>mongod.exe --dbpath="c:\data\db"
 
 Go to this folder
 C:\Users\SESA551648\Desktop\sample\node-mongo and type this command npm run start
+
+# Reference url
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
+https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/
+https://www.udemy.com/course/restful-api-with-express/
